@@ -31,7 +31,7 @@ session_start();
 
 
     <nav class="navbar navbar-expand-sm navbar-light bg-light">
-        <a class="navbar-brand" >
+        <a class="navbar-brand">
             <h5>&nbsp; <img class="img-fluid" src="UMaT-logo-238x300.jpg" alt="" height="40px" width="40px">&nbsp; Peace Royal Attendance System </h5>
 
         </a>
@@ -52,7 +52,7 @@ session_start();
     <div class="main1">
         <div class="col-md-6 text-center justify-content-center">
             <h1 class="py-4 bg-light text-dark">
-                <i class="fa-solid fa-user"></i> &nbsp; Enter Your Credentials
+                <i class="fa-solid fa-user"></i> &nbsp; Enter Your Details
             </h1>
             <div class="container-fluid" id="entry">
                 <form action="" method="POST">
