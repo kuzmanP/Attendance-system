@@ -1,0 +1,51 @@
+body {
+  /* background-image: url(/ttbw-90-aerial-forest-16x9-2-no-logo_0.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+.subject {
+  margin-top: 50px;
+  color: black;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.subject1 {
+  margin-top: 50px;
+  color: black;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.output {
+  background-color: aliceblue;
+  border-radius: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+  font-weight: lighter;
+}
+.buttons {
+  display: inline-flex;
+  padding-left: 924px;
+}
+.main1 {
+  margin-left: 300px;
+  width: 900px;
+  margin-top: 120px;
+  display: grid;
+  place-items: center;
+  background-color: white;
+  border-style: solid;
+  height: auto;
+  border-color: rgb(172, 230, 210);
+  border-width: 5px;
+  border-radius: 20px;
+}
+#entry {
+  display: grid;
+  width: auto;
+}
+.footer {
+  margin-top: 120px;
+  display: grid;
+  place-items: center;
+}
