@@ -52,7 +52,7 @@ session_start();
     <div class="main1">
         <div class="col-md-6 text-center justify-content-center">
             <h1 class="py-4 bg-light text-dark">
-                <i class="fa-solid fa-user"></i> &nbsp; Enter Your Details
+                <i class="fa-solid fa-user"></i> &nbsp; Enter Your Credentials
             </h1>
             <div class="container-fluid" id="entry">
                 <form action="" method="POST">
